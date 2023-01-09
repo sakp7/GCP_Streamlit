@@ -20,7 +20,7 @@ To answer the problem statement, we have built our Machine Learning Model using 
 
 2.Creating our model
 
-3.Building an Interface using StreaLit
+3.Building an Interface using StreamLit
 
 4.Deploying our model into the Google Cloud Platform using Docker and Cloud Shell
 
