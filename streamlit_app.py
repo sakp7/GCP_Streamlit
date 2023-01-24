@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 
-df = pd.read_csv("D:/project2/Loan_Data/train.csv")
+df = pd.read_csv("train.csv")
 df.head()
 
 df['LoanAmount'] = df['LoanAmount'].fillna(df['LoanAmount'].mean())
